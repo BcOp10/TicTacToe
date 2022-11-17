@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TicTac",
+            "request": "launch",
+            "mainClass": "TicTacToeGame.TicTac",
+            "projectName": "TicTacToe_23759806",
+            "vmArgs": "--module-path C:/Users/Julius/OneDrive/Desktop/javafx-sdk-19/lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web"
+        }
+    ]
+}
